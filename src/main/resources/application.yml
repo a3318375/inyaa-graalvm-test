@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:mysql://sh-cdb-1n4o1l0g.sql.tencentcdb.com:59339/inyaa?useSSL=false&characterEncoding=utf8&allowPublicKeyRetrieval=true
+    username: root
+    password: inyaa2021
+    driver-class-name: com.mysql.cj.jdbc.Driver
